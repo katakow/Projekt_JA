@@ -1,0 +1,3 @@
+LIBRARY "GaussFilter.Algorithm.ASM.dll"
+EXPORTS  
+	laplace   @1

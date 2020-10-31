@@ -1,0 +1,15 @@
+D:\college\V\JA\Projekt_JA\Projekt_JA\bin\Debug\Projekt_JA.exe.config
+D:\college\V\JA\Projekt_JA\Projekt_JA\bin\Debug\Projekt_JA.exe
+D:\college\V\JA\Projekt_JA\Projekt_JA\bin\Debug\Projekt_JA.pdb
+D:\college\V\JA\Projekt_JA\Projekt_JA\obj\Debug\Laplace.csprojAssemblyReference.cache
+D:\college\V\JA\Projekt_JA\Projekt_JA\obj\Debug\MainWindow.g.cs
+D:\college\V\JA\Projekt_JA\Projekt_JA\obj\Debug\App.g.cs
+D:\college\V\JA\Projekt_JA\Projekt_JA\obj\Debug\Projekt_JA_MarkupCompile.cache
+D:\college\V\JA\Projekt_JA\Projekt_JA\obj\Debug\Projekt_JA_MarkupCompile.lref
+D:\college\V\JA\Projekt_JA\Projekt_JA\obj\Debug\MainWindow.baml
+D:\college\V\JA\Projekt_JA\Projekt_JA\obj\Debug\Projekt_JA.g.resources
+D:\college\V\JA\Projekt_JA\Projekt_JA\obj\Debug\Projekt_JA.Properties.Resources.resources
+D:\college\V\JA\Projekt_JA\Projekt_JA\obj\Debug\Laplace.csproj.GenerateResource.cache
+D:\college\V\JA\Projekt_JA\Projekt_JA\obj\Debug\Laplace.csproj.CoreCompileInputs.cache
+D:\college\V\JA\Projekt_JA\Projekt_JA\obj\Debug\Projekt_JA.exe
+D:\college\V\JA\Projekt_JA\Projekt_JA\obj\Debug\Projekt_JA.pdb
